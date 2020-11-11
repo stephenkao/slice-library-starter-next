@@ -1,0 +1,46 @@
+{
+  "id": "test_slice",
+  "type": "SharedSlice",
+  "name": "TestSlice",
+  "description": "TestSlice",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "TestSlice",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Description",
+            "placeholder": "A nice description of your feature"
+          }
+        }
+      },
+      "items": {
+        "ewafaefwea": {
+          "type": "Boolean",
+          "config": {
+            "label": "",
+            "id": "ewafaefwea",
+            "placeholder": "",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        }
+      }
+    }
+  ]
+}

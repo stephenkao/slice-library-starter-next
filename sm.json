@@ -1,3 +1,1 @@
-{
-  "libraries": ["@/slices"]
-}
+{"libraries":["@/MyNewSlice","@/slices","@/slices"],"apiEndpoint":"https://stephen-blank-thing.cdn.prismic.io/api/v2","storybook":"http://localhost:8888"}
